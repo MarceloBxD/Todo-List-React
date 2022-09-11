@@ -1,0 +1,24 @@
+{
+    "ListItems": [
+        {
+            "id": 1,
+            "name": "Comprar Liquidificador",
+            "done": false
+        },
+        {
+            "id": 2,
+            "name": "Ir na lavanderia",
+            "done": false
+        },
+        {
+            "id": 3,
+            "name": "Consertar o filtro",
+            "done": false
+        },
+        {
+            "id": 4,
+            "name": "Comprar whey",
+            "done": false
+        }
+    ]
+}
